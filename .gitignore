@@ -1,0 +1,11 @@
+# IDE files
+.idea
+.venv
+
+# Generated data
+*.csv
+*.csv.zip
+
+*.egg-info/
+**/__pycache__/
+
