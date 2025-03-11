@@ -74,6 +74,7 @@ To install the script, you can run
 ```shell
 python3 -m venv .venv
 . .venv/bin/activate
+pip install -r requirements.txt
 pip install --editable .
 pocs_xml2csv --help
 ```
